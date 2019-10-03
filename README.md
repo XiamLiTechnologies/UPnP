@@ -1,7 +1,6 @@
 # UPnP 
 
 ![Release](https://img.shields.io/badge/release-1.2.0-brightgreen)
-![Build Status](https://ci.xiamli.com/api/badges/Xelp/upnp/status.svg)
 ![License](https://img.shields.io/badge/license-LGPL%20%3E%3D%202.1-blue)
 ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)
 
