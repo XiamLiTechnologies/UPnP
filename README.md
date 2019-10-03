@@ -12,6 +12,8 @@ UPnP is an _extremely_ lightweight Java library that allows you to:
 - check if there's an UPnP router available
 - check if a port is already mapped
 
+Forked from [WaifUPnP](https://github.com/adolfintel/WaifUPnP)
+
 ## Requirements
 
 Java 1.8 or later.
